@@ -1,0 +1,17 @@
+Based on the provided text, here is a summary of the Universal Credit Act 2025:
+
+*   **Purpose:** The Act's main purpose is to alter the payment rates for several key components of Universal Credit (UC) and the legacy income-related Employment and Support Allowance (ESA) for the tax years running from 2026-27 to 2029-30.
+
+*   **Standard Allowance Uprating:** It places an obligation on the Secretary of State to increase the UC standard allowance annually. This increase is calculated by taking the previous year's amount, adding the Consumer Price Index (CPI) inflation rate, and then adding a further specific "uplift percentage" which is set in the Act for each of the four years.
+
+*   **Two-Tier Sickness & Disability Element:** The Act fundamentally changes the Limited Capability for Work and Work-Related Activity (LCWRA) element by creating two different payment rates. A new, lower rate (£217.26) is introduced for most claimants who qualify for the LCWRA element on or after April 6, 2026.
+
+*   **Eligibility for Protected Rate:** Eligibility for the existing, higher LCWRA payment amount is protected and restricted to specific groups. These include terminally ill claimants, existing claimants from before April 2026 ("pre-2026 claimants"), and a newly defined group of "severe conditions criteria claimants."
+
+*   **Key Definition - "Severe Conditions Criteria Claimant":** This new eligibility category is for individuals who not only have limited capability for work but also have a lifelong, professionally diagnosed condition that means at least one specific severe disability descriptor "constantly applies" to them.
+
+*   **Enforcement through Freezing:** The Act enforces a spending control by freezing the LCWRA and Limited Capability for Work (LCW) elements for the four tax years from 2026-27 to 2029-30. This means these specific benefit components will not receive their standard annual inflation-based increase during this period.
+
+*   **Protection for Combined Payments:** Despite the freeze on the LCWRA element, the Act includes a protective obligation. It ensures that the *total sum* of a claimant's standard allowance and their protected LCWRA amount must rise by at least the rate of CPI inflation each year.
+
+*   **Application to Legacy Benefits & Northern Ireland:** The Act ensures consistency by applying similar up-rating rules and freezes to the equivalent components of the legacy income-related ESA. It also contains specific schedules to enact corresponding legislative changes in Northern Ireland.

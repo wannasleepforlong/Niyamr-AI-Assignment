@@ -1,0 +1,174 @@
+Here is the Universal Credit Act 2025 presented in a structured format, ensuring all information from the provided text is retained.
+
+***
+
+### **Act Identification**
+
+*   **Act Title:** Universal Credit Act 2025
+*   **Chapter:** 22
+*   **Reign:** CHARLES III
+*   **Explanatory Notes:** Available separately to assist in understanding the Act.
+*   **Price:** £8.90
+*   **Date of Royal Assent:** 3rd September 2025
+*   **Long Title:** An Act to make provision to alter the rates of the standard allowance, limited capability for work element and limited capability for work and work-related activity element of universal credit and the rates of income-related employment and support allowance.
+
+### **Enacting Formula**
+
+BE IT ENACTED by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+---
+
+### **Table of Contents**
+
+**Universal credit**
+1.  Standard allowance for tax years 2026-27 to 2029-30
+2.  LCWRA element for tax year 2026-27
+3.  Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30
+4.  Protected LCWRA amount for tax years 2026-27 to 2029-30
+5.  Legacy employment and support allowance payments
+
+**Corresponding provision for Northern Ireland**
+6.  Corresponding provision for Northern Ireland
+
+**Short title**
+7.  Short title
+
+**Schedules**
+*   **Schedule 1:** Amendments to the Universal Credit Regulations 2013 in connection with new amounts of the LCWRA element
+*   **Schedule 2:** Northern Ireland: corresponding provision
+
+---
+
+### **Part 1: Universal Credit**
+
+#### **Section 1: Standard allowance for tax years 2026-27 to 2029-30**
+
+*   **(1)** The Secretary of State must use a relevant power to ensure the standard allowance for tax years 2026-27 to 2029-30 meets the minimum amounts calculated according to subsection (2).
+*   **(2)** The minimum amounts are calculated as follows:
+    *   **Step 1:**
+        *   For tax year 2026-27: Use the standard allowance amounts from 2025-26.
+        *   For tax years 2027-28, 2028-29, or 2029-30: Use the amounts from Step 2 of the previous tax year.
+    *   **Step 2:** Increase the Step 1 amounts by the relevant CPI percentage for the tax year.
+    *   **Step 3:** Increase the Step 2 amounts by the relevant uplift percentage for the tax year.
+*   **(3)** **"Relevant CPI percentage"** is the percentage increase in the consumer prices index from the September of the preceding year to the September before the start of the current tax year (or 0% if there is no increase).
+*   **(4)** **Relevant Uplift Percentages:**
+| Tax year | Relevant uplift percentage |
+| :--- | :--- |
+| 2026-27 | 2.3% |
+| 2027-28 | 3.1% |
+| 2028-29 | 4.0% |
+| 2029-30 | 4.8% |
+*   **(5)** Section 150(1) and (2)(c) of the Social Security Administration Act 1992 (annual up-rating) will not apply to the standard allowance in the tax years ending 5 April 2026, 2027, 2028, and 2029.
+*   **(6)** **Definitions for this section:**
+    *   **(a) "consumer prices index":** The all items consumer prices index published by the Statistics Board.
+    *   **(b) "relevant power":** The power in section 9(2) of the Welfare Reform Act 2012, or section 150(2)(b) of the Social Security Administration Act 1992.
+    *   **(c) "the standard allowance":** The allowance included in a universal credit award under section 9(1) of the Welfare Reform Act 2012.
+    *   **(d) standard allowance "for" a tax year:** The allowance applicable for assessment periods starting on or after the first Monday of that tax year.
+*   **(7)** **General Definitions (for sections 3 to 5):**
+    *   **(a) "tax year":** 12 months beginning with 6 April.
+    *   **(b) "tax year 2025-26":** The tax year beginning on 6 April 2025.
+
+#### **Section 2: LCWRA element for tax year 2026-27**
+
+*   **(1)** In the table in regulation 36 of the Universal Credit Regulations 2013, the following amendments are made:
+    *   **(a)** A new row is inserted before the existing "limited capability for work and work-related activity" row:
+        > "claimant with limited capability for work and work-related activity, other than a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill | £217.26"
+    *   **(b)** In the existing row, the description is substituted with:
+        > "pre-2026 claimant, severe conditions criteria claimant or claimant who is terminally ill"
+*   **(2)** Schedule 1 contains further related amendments to the Universal Credit Regulations 2013.
+*   **(3)** This section and Schedule 1 come into force on 6 April 2026 and apply to assessment periods starting on or after that date.
+
+#### **Section 3: Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30**
+
+*   **(1)** Section 150(1) and (2) of the Social Security Administration Act 1992 (annual up-rating) will not apply to the LCWRA or LCW elements in the tax years ending 5 April 2026, 2027, 2028, and 2029.
+*   **(2)** **Definitions:**
+    *   **(a) "the LCWRA element":** As defined in regulation 27 of the Universal Credit Regulations 2013.
+    *   **(b) "the LCW element":** As defined in regulation 27 of the Universal Credit Regulations 2013 (so far as saved by relevant savings provisions).
+
+#### **Section 4: Protected LCWRA amount for tax years 2026-27 to 2029-30**
+
+*   **(1)** For tax years 2026-27 to 2029-30, the Secretary of State must, where necessary, increase the protected LCWRA amount or the standard allowance to achieve the result in subsection (2).
+*   **(2)** **Result to be achieved:** The sum of the protected LCWRA amount and the standard allowance for the current tax year must be at least the sum of those amounts from the previous year, increased by the relevant CPI percentage.
+*   **(3)** **Definitions for this section:**
+    *   **(a) "the protected LCWRA amount":** The LCWRA element amount for a pre-2026 claimant, a severe conditions criteria claimant, or a terminally ill claimant.
+    *   **(b) "the LCWRA element":** Same meaning as in section 3.
+    *   **(c) "the standard allowance":** Same meaning as in section 1.
+    *   **(d)** An amount "for" a tax year is the amount applicable for assessment periods starting on or after the first Monday of that tax year.
+*   **(4)** **Definitions for this section and section 5:**
+    *   **(a) "relevant CPI percentage":** Same meaning as in section 1.
+    *   **(b) "consumer prices index":** Same meaning as in section 1.
+
+#### **Section 5: Legacy employment and support allowance payments**
+
+*   **(1)** Section 1 applies to the ESA IR personal allowance for tax years 2026-27 to 2029-30 as it does to the standard allowance, with a modification to the power reference.
+*   **(2)** Section 150(1) and (2) of the Social Security Administration Act 1992 (annual up-rating) will not apply to the following sums in the tax years ending 5 April 2026, 2027, 2028, and 2029:
+    *   **(a)** Any amount of an ESA IR disability premium.
+    *   **(b)** The ESA IR support component.
+    *   **(c)** The ESA IR work-related activity component.
+*   **(3)** For tax years 2026-27 to 2029-30, the Secretary of State must, where necessary, increase certain ESA amounts to achieve the result in subsection (4).
+*   **(4)** **Result to be achieved:** The sum of any combination of ESA IR disability premium, support component, and personal allowance a person could be entitled to for the current tax year must be at least the sum of those amounts from the previous year, increased by the relevant CPI percentage.
+*   **(5)** **Definitions for this section:**
+    *   **(a) "amount of the ESA IR personal allowance":** An amount prescribed under the Welfare Reform Act 2007, not including premiums or housing costs.
+    *   **(b) "amount of an ESA IR disability premium":** The severe or enhanced disability premium.
+    *   **(c) "the ESA IR support component":** The amount specified in the Employment and Support Allowance Regulations 2008.
+    *   **(d) "the ESA IR work-related activity component":** The amount specified in the same regulations for specific transitional cases.
+    *   **(e)** An amount "for" a tax year is the amount applicable for benefit weeks starting on or after the first Monday of that tax year.
+
+---
+
+### **Part 2: Corresponding Provision for Northern Ireland**
+
+#### **Section 6: Corresponding provision for Northern Ireland**
+
+*   Schedule 2 makes corresponding provisions for Northern Ireland.
+
+---
+
+### **Part 3: Short Title**
+
+#### **Section 7: Short title**
+
+*   This Act may be cited as the Universal Credit Act 2025.
+
+---
+
+### **Schedule 1: Amendments to the Universal Credit Regulations 2013**
+
+*(This schedule amends the Universal Credit Regulations 2013)*
+
+1.  **Regulation 2 (Interpretation):** Inserts definitions for "pre-2026 claimant" and "severe conditions criteria claimant".
+2.  **Regulation 27 (Award to include LCWRA element):** Amends this to specify that the amount depends on whether the claimant is a pre-2026 claimant, severe conditions criteria claimant, terminally ill, or other claimant. Also clarifies rules for joint claimants.
+3.  **New Regulation 27A (Meaning of "pre-2026 claimant"):** Defines a "pre-2026 claimant" as someone entitled to the LCWRA element before 6 April 2026 and continuously entitled since. It specifies that short breaks in entitlement due to financial conditions do not break continuity.
+4.  **Regulation 38 (Introduction):** Amends to include reference to a "severe conditions criteria claimant".
+5.  **New Regulation 40A (Severe conditions criteria claimant):**
+    *   Defines a "severe conditions criteria claimant" as someone who has limited capability for work and work-related activity and to whom at least one descriptor in Schedule 7 constantly applies and will do so for life.
+    *   Sets conditions for the assessment, requiring a diagnosis from a qualified healthcare professional via NHS services.
+    *   Defines "constantly applies" and "NHS services".
+6.  **Regulation 41 (When an assessment may be carried out):** Amends to include assessments for "severe conditions criteria claimant" status and sets rules for when further assessments can be carried out.
+7.  **Regulation 43 (Information requirement):** Amends to apply the information requirement to assessments for "severe conditions criteria claimant" status.
+8.  **Regulation 44 (Medical examination):** Amends to apply the medical examination rules to assessments for "severe conditions criteria claimant" status.
+9.  **Regulation 23 (Introduction):** A minor textual amendment from "and" to "to".
+
+---
+
+### **Schedule 2: Northern Ireland: Corresponding Provision**
+
+*(This schedule mirrors the main provisions of the Act for Northern Ireland)*
+
+*   **1. Standard allowance for tax years 2026-27 to 2029-30:**
+    *   Requires the Department for Communities in NI to ensure the standard allowance meets minimum amounts calculated by the same three-step process (base amount + CPI + uplift percentage) as in Section 1 of the main Act.
+*   **2. LCWRA element for tax year 2026-27:**
+    *   Amends the Universal Credit Regulations (Northern Ireland) 2016 in a way that corresponds to the amendments in Section 2 and Schedule 1 of the main Act. This includes inserting new definitions, a new LCWRA rate, and the new "severe conditions criteria claimant" category.
+    *   The commencement date is 6 April 2026.
+*   **3. Protected LCWRA amount for tax years 2026-27 to 2029-30:**
+    *   Requires the Department for Communities in NI to ensure the combined total of the protected LCWRA amount and the standard allowance is up-rated by at least the CPI, mirroring Section 4 of the main Act.
+*   **4. Legacy employment and support allowance:**
+    *   Applies the up-rating rules from paragraph 1 of this schedule to the NI ESA IR personal allowance.
+    *   Requires the Department for Communities in NI to ensure that combinations of legacy ESA components are up-rated by at least the CPI, mirroring Section 5 of the main Act.
+
+---
+
+### **Publication Information**
+
+*   © Crown copyright 2025
+*   Printed and published in the UK by The Stationery Office Limited under the authority of Saul Nassé, Controller of His Majesty’s Stationery Office and King’s Printer of Acts of Parliament.

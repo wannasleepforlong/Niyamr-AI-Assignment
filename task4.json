@@ -1,0 +1,40 @@
+{
+    "rules": [
+        {
+            "rule": "Act must define key terms",
+            "status": "pass",
+            "evidence": "Section 1(6) defines terms such as \"consumer prices index\" and \"relevant power\". Schedule 1, paragraph 2 and 4 introduce and define \"pre-2026 claimant\" and \"severe conditions criteria claimant\".",
+            "confidence": 95
+        },
+        {
+            "rule": "Act must specify eligibility criteria",
+            "status": "pass",
+            "evidence": "Schedule 1, paragraphs 4 and 6 define the criteria for a claimant to be considered a \"pre-2026 claimant\" or a \"severe conditions criteria claimant\", which affects their entitlement.",
+            "confidence": 95
+        },
+        {
+            "rule": "Act must specify responsibilities of the administering authority",
+            "status": "pass",
+            "evidence": "Section 1(1) states that \"The Secretary of State must exercise a relevant power in order to secure that the amounts of the standard allowance...are at least the amounts calculated...\". Similar responsibilities are mentioned in Section 4(1) and 5(3).",
+            "confidence": 95
+        },
+        {
+            "rule": "Act must include enforcement or penalties",
+            "status": "fail",
+            "evidence": "The provided text focuses on calculating benefit amounts and does not contain sections on enforcement or penalties for non-compliance or fraud.",
+            "confidence": 90
+        },
+        {
+            "rule": "Act must include payment calculation or entitlement structure",
+            "status": "pass",
+            "evidence": "Section 1(2) provides a clear 3-step process for calculating the minimum amounts of the standard allowance, including the use of CPI and relevant uplift percentages.",
+            "confidence": 95
+        },
+        {
+            "rule": "Act must include record-keeping or reporting requirements",
+            "status": "fail",
+            "evidence": "The text does not contain any clauses related to the keeping of records or reporting requirements for either the claimant or the administering authority.",
+            "confidence": 90
+        }
+    ]
+}
