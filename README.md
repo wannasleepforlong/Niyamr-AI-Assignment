@@ -31,6 +31,3 @@ The project completes **Tasks 1–4** as outlined in the assignment brief:
 ├── pdf_text_output.txt # Raw PDF text extraction
 
 └── README.md # This file
-
-yaml
-Copy code
